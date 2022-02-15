@@ -1,0 +1,15 @@
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\bin\Debug\net6.0\AutoBattle.exe
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\bin\Debug\net6.0\AutoBattle.deps.json
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\bin\Debug\net6.0\AutoBattle.runtimeconfig.json
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\bin\Debug\net6.0\AutoBattle.dll
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\bin\Debug\net6.0\AutoBattle.pdb
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\AutoBattle.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\AutoBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\AutoBattle.AssemblyInfoInputs.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\AutoBattle.AssemblyInfo.cs
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\AutoBattle.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\AutoBattle.dll
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\refint\AutoBattle.dll
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\AutoBattle.pdb
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\AutoBattle.genruntimeconfig.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\AutoBattle\AutoBattle\obj\Debug\net6.0\ref\AutoBattle.dll
